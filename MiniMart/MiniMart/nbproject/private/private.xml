@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/MiniMart/src/java/controller/DetailController.java</file>
+            <file>file:/D:/MiniMart/web/category.jsp</file>
+            <file>file:/D:/MiniMart/web/css/shop.css</file>
+            <file>file:/D:/MiniMart/src/java/controller/CategoryController.java</file>
+            <file>file:/D:/MiniMart/src/java/controller/SortController.java</file>
+            <file>file:/D:/MiniMart/web/index.jsp</file>
+            <file>file:/D:/MiniMart/web/product-detail.jsp</file>
+            <file>file:/D:/MiniMart/src/java/dao/CategoryDao.java</file>
+            <file>file:/D:/MiniMart/web/css/product.css</file>
+            <file>file:/D:/MiniMart/src/java/models/Product.java</file>
+            <file>file:/D:/MiniMart/src/java/dao/ProductDao.java</file>
+            <file>file:/D:/MiniMart/src/java/models/Category.java</file>
+            <file>file:/D:/MiniMart/src/java/controller/HomeController.java</file>
+            <file>file:/D:/MiniMart/src/java/controller/SearchController.java</file>
+            <file>file:/D:/MiniMart/src/java/context/ConnectDb.java</file>
+            <file>file:/D:/MiniMart/web/css/style.css</file>
+        </group>
+    </open-files>
+</project-private>

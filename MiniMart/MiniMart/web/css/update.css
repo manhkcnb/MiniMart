@@ -1,0 +1,97 @@
+.banner-left{
+    width: 500px;
+    height: 135px;
+    position: relative;
+}
+.banner-left img{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}.banner-main {
+    padding: 0px;
+    margin: 0px;
+    width: 600px;
+    height: 135px;
+    display: flex;
+}
+.banner-main ul{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 21px;
+   
+    
+}.banner-main ul li{
+    
+    margin-right: 20px;
+    width: 70px;
+}.banner-main ul li a{
+    text-decoration: none;
+}
+.banner-main .timkiem{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 21px;
+    height: 45px;
+    width: 600px;
+}
+.timkiem .xxx input{
+    width: 450px;
+    height: 45px;
+    margin: 0px;
+    padding: 0px;   
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+.timkiem .xxx button{
+    width: 100px;
+    height: 45px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(151, 146, 141);
+}
+.banner-main .timkiem ul{
+  
+    display: flex;
+    list-style: none;
+    margin-top: 5px;
+   margin-left: 23px;
+}
+.banner-main .timkiem ul li{
+   
+    padding: 0px;
+    margin: 0px;
+    padding-left: 10px;
+    border-right:1px solid white ;
+    width: 110px;
+}.banner-main .timkiem ul li:last-child{
+    border-right-width:0px ;
+}
+
+.banner-right{
+    width: 500px;
+    height: 135px;
+    display: flex;
+}.banner-right ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    margin-top: 30px;
+
+}.banner-right ul li{
+    margin: 0px;
+    padding: 0px;
+    width: 80px;
+}.banner-right .giohang{
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 120px;
+    height: 50px;
+    background-color: bisque;
+}.banner-right ul li a{
+    text-decoration: none;
+}

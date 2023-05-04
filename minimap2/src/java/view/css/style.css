@@ -1,0 +1,333 @@
+body{
+    /* bo khoang cach tren */
+    padding: 0px;
+    /* bo khoang cach trai */
+    margin: 0px;
+    width: 1600px;
+    height: 4200px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    background-color: #f5f6f7;
+    
+}
+.header{
+    background-color: white;
+    width: 1600px;
+    padding: 0px;
+    margin: 0px;
+    height: 18px;
+    margin-left: 0px;
+
+}.header ul{
+    width: 1600px;
+    margin: 0px;
+    padding: 0px; 
+    display: flex;
+    margin: auto;
+    margin: 20px;
+    list-style: none;
+    text-align: center;
+}
+.header ul li{
+    margin: auto;
+    display: inline;
+    text-align: center;
+    border-right: 1px solid rgb(226, 226, 70);
+}.header ul li a{
+    text-decoration: none;
+    color: black;
+    padding: 0px 15px;
+}
+.header ul li:last-child{
+    border-right-width: 0px;
+}
+.banner{
+    padding: 0px;
+    margin: 0px;
+    background: #fe8237;
+    width: 1600px;
+    height: 135px;
+    display: flex;
+   
+}
+
+.backdrop{
+    padding: 0px;
+    margin: 0px;
+}
+.backdrop img{
+    
+    width: 1600px;
+}.chivoi ul {
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    list-style: none;
+    margin: auto;
+    margin-right: 10px;
+    
+}.chivoi ul li{
+    padding: 0px;
+    margin: 0px;
+    margin-right:10px ;
+    width: 430px;
+}
+.sanphamto{
+    padding: 0px;
+    margin: 0px;
+    margin: auto;
+    background-color: #f5f6f7;
+    width:1600px ;
+    height:1600px;
+}
+.sanpham{
+    padding: 0px;
+    margin: 0px;
+    margin: auto;
+    background-color: #f5f6f7;
+    width:1135px ;
+    height: 1600px;
+}
+.sanphambanchay .mathang{
+    padding: 0px;
+    margin: 0px;
+    width: 1130px;
+    height: 600px;
+    border-top: 2px solid wheat;
+}.sanphambanchay .mathang ul{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    list-style: none;
+    height:300px ;
+    
+}.sanphambanchay .mathang ul li{
+    margin: 0px;
+    padding: 0px;
+    margin: 5px 5px 0px 5px;
+    position: relative;
+    
+   
+}.sanphambanchay a{
+    text-decoration: none;
+}
+.sanphambanchay .mathang ul li img{
+   width: 215px ;
+  
+}.sanphambanchay .mathang ul li .gia{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    
+}.tensp{
+    background-color: white;
+    padding: 0px;
+    margin: 0px;
+    position: absolute;
+    bottom:0px;
+    width:215px ;
+    height: 80px;
+}.tensp h3,div{
+    margin-left: 20px;
+}.tensp div{
+    color: #fe8237;
+    font-size: 18px;
+}.dokho .mathang{
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+    width: 1135px;
+    height: 600px;
+    border-top: 2px solid wheat;
+}.dokho .mathang ul{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    list-style: none;
+    height:300px ;
+    
+}.dokho .mathang ul li{
+    padding: 0px;
+    margin: 5px 5px 0px 5px;
+    position: relative;
+    
+   
+}.dokho{
+    position: relative;
+    height: 350px;
+}
+.dokho a{
+    text-decoration: none;
+}
+.dokho .mathang ul li img{
+   width: 215px ;
+  
+}.dokho .mathang ul li .gia{
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    
+}.dokho .tieude {
+    position: absolute;
+    top:0px;
+    right: 0px;
+    height: 100px;
+   
+
+}
+.dokho .tieude ul{
+    display: flex;
+    list-style: none;
+    margin: 0px;
+    padding:0px;
+   
+}.dokho .tieude ul li{
+    width: 250px;
+}.dokho .tieude ul li a{
+    display: flex;
+}.danhmuc{
+    height: 340px;
+    width: 1600px;
+    margin: auto;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 10px;
+    background-color: #fe8237;
+}.danhmucnho{
+    height: 340px;
+    width: 1100px;
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+    position: relative;
+    
+}.danhmucnho a{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+   
+}.danhmucnho .xemthem{
+    position: absolute;
+    right: 2px;
+    top: 5px;
+}.danhmucnho ul{
+    list-style: none;
+    display: flex;
+    width: 1130px;
+    height: 100px;
+}.danhmucnho ul li{
+    width: 220px;
+    height: 100px;
+    background-color: #f5f6f7;
+    margin-left: 5px;
+}.danhmucnho ul li a{
+   
+    margin: 5px;
+    padding: 0px;
+    display: flex;
+}.meohaysudung{
+    height: 200px;
+    width: 1100px;
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+    
+   
+}.meohaysudung .body{
+    margin: 0px;
+    padding: 0px;
+    height: 175px;
+    width: 1100px;
+    background-color: white;
+    margin-top: 10px;
+}.meohaysudung .body ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    margin-right: 15px;
+}.meohaysudung .body ul li{
+    margin: 0px;
+    padding: 0px;
+    width: 330px;
+    display: flex;
+   
+}.meohaysudung .body ul li img{
+    width: 100px;
+    height: 55px;
+}.meohaysudung .body ul li a{
+    text-decoration: none;
+}
+footer{
+    padding: 0px;
+    margin: 0px;
+    height: 500px;
+    width: 1100px;
+    margin: auto;
+    background: url(../images/bg_footer.webp);
+}
+footer ul{
+    padding: 0px;
+    margin: 0px;
+   
+    margin: 30px;
+    list-style: none;
+    /* position: relative;  */
+    display: flex;
+}
+footer ul li{
+    /* position: absolute; */
+    width: 300px;
+    /* height: 230px; */
+    border-right: 1px solid  black;
+}footer ul li:last-child{
+    border-right-width:0px ;
+}
+.diachi,.sdt,.gmail{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    padding-bottom: 10px;
+}.diachi img,.sdt img,.gmail img{
+    padding-right: 10px;
+}.diachi a,.sdt a,.gmail a{
+    text-decoration: none;
+}.x2 {
+    display: block;
+    margin-bottom:13px ;
+    padding: 10px;
+}.x2 a{
+    text-decoration: none;
+}
+footer ul li button{
+    padding: 0px;
+    margin: 0px;
+    width: 250px;
+    height: 40px;
+}footer ul li button p{
+    float: left;
+}footer ul li button div{
+    padding: 0px;
+    margin: 0px;
+    background-color: aquamarine;
+    height: 38px;
+    width: 40px;
+    float: right;
+}footer ul li button div p{
+    padding-left: 5px;
+}.banquyen{
+    
+    width: 520px;
+}.x3{
+    margin: 20px;
+    height: 20px;
+}.logo{
+    height: 60px;
+    width: 150px;
+    margin: 0px;
+    padding: 0px;
+}.logo a{
+    height: 60px;
+    width: 40px;
+}
